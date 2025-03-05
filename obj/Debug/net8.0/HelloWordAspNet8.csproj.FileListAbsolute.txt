@@ -23,3 +23,4 @@
 /home/josias/Documents/projects/dotnet/HelloWordAspNet8/obj/Debug/net8.0/HelloWordAspNet8.pdb
 /home/josias/Documents/projects/dotnet/HelloWordAspNet8/obj/Debug/net8.0/HelloWordAspNet8.genruntimeconfig.cache
 /home/josias/Documents/projects/dotnet/HelloWordAspNet8/obj/Debug/net8.0/ref/HelloWordAspNet8.dll
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/obj/Debug/net8.0/HelloWordAspNet8.sourcelink.json

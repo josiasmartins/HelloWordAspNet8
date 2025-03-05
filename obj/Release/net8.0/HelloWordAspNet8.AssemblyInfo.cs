@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloWordAspNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+549e074392c8045f4b27f119a20539762cf79065")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e6170bb2eba425af57d2d6a7daecf6516bd12db")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloWordAspNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloWordAspNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
