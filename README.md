@@ -4,3 +4,8 @@
 ```bash
 dotnet publish -c Release -o ./bin//Publish
 ```
+
+## Rodar o projeto no dotnet
+```bash
+dotnet run
+```
