@@ -1,0 +1,7 @@
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/HelloWordAspNet8
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/appsettings.Development.json
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/appsettings.json
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/HelloWordAspNet8.dll
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/HelloWordAspNet8.deps.json
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/HelloWordAspNet8.runtimeconfig.json
+/home/josias/Documents/projects/dotnet/HelloWordAspNet8/bin/Publish/HelloWordAspNet8.pdb
